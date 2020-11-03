@@ -1,4 +1,4 @@
-BMI Calculator In Flutter!
+# BMI Calculator In Flutter!
 
 ![Screenshot_20200919-111430](https://user-images.githubusercontent.com/50584809/98017523-319c1a00-1e21-11eb-9157-cce9111156ea.jpg)
 
